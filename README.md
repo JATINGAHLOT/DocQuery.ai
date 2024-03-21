@@ -27,15 +27,4 @@ Welcome to DocQuery.AI! This project represents a groundbreaking solution at the
 
   - Leverages Chroma vector search for quick and accurate document retrieval.
   - Allows users to explore diverse PDF document types effortlessly.
-## How to Use:
 
-- **Setup:**
-
-  - Clone the repository to your local machine.
-  - Install the required dependencies listed in requirements.txt.
-  - Obtain an API key from OpenAI and set it up in the provided input box.
-  - Interacting with the System:
-
-Launch the Gradio interface by running the provided script.
-Input your queries or upload PDF documents directly through the interface.
-Explore the retrieved information and engage in dynamic conversations with the system.
